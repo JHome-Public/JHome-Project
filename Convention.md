@@ -1,4 +1,4 @@
-# Convention(작성/보완 중)
+# Convention(작성/보완 진행중)
 
 ## Infra.
 - 마이크로 서비스의 port 번호는 9000번대를 사용한다.
