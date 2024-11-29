@@ -29,10 +29,9 @@ _Spring Cloud Gateway, Spring Cloud Netflix Eureka, Spring Cloud Config Server_
 ### AWS RDS
 - 개발 DB를 클라우드 환경에 구축하여 매번 로컬 환경에 DB를 설치하지 않고 추후 협업 시에도 일관된 DB를 활용할 수 있도록 하였습니다.
 
-# Services
-### User Service
-사용자 등록(회원가입), 정보 조회, 정보 수정, 사용자 삭제(탈퇴), 로그인 기능을 담당합니다.
-
 # Architecture
 ![image](https://github.com/user-attachments/assets/8e8d3dc8-ff9f-427a-9496-38dc96a1d133)
 
+# Services
+### User Service
+사용자 등록(회원가입), 정보 조회, 정보 수정, 사용자 삭제(탈퇴), 로그인 기능을 담당합니다.
