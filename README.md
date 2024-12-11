@@ -29,7 +29,7 @@ _Spring Cloud Gateway, Spring Cloud Netflix Eureka, Spring Cloud Config Server_
 - 개발 DB를 클라우드 환경에 구축하여 매번 로컬 환경에 DB를 설치하지 않고 추후 협업 시에도 일관된 DB를 활용할 수 있도록 하였습니다.
 
 # Architecture
-![image](https://github.com/user-attachments/assets/b400b8df-b5b1-4744-83dc-0d748e7ecc54)
+![image](https://github.com/user-attachments/assets/4b440a74-6bd3-421b-ae34-a45d9c21f5a7)
 
 # Services
 ### User Service
