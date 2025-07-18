@@ -43,3 +43,6 @@
 
 ### User-Service
 사용자 등록(회원가입), 정보 조회, 정보 수정, 사용자 삭제(회원탈퇴) 기능을 담당합니다.
+
+# Repositories
+https://github.com/orgs/JHome-Public/repositories
